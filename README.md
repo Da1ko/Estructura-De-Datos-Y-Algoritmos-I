@@ -1,4 +1,4 @@
-# 2_Semestre
+# Estructura de Datos y Algoritmos I
 2do semestre Ingeniería en Computación / Facultad de Ingeniería / UNAM
 # Profesor
 - Estructura de datos y algoritmos I (EDA I): MANUEL ENRIQUE CASTAÑEDA CASTAÑEDA
